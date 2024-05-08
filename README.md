@@ -1,4 +1,4 @@
-# Project Name
+# Introduction section
 
 This project is a simple web page featuring an intro section with a navigationbar, features section, company section, careers section, and login section.
 
